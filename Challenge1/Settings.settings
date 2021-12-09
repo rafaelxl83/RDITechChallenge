@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Challege1.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConfigFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">config.json</Value>
+    </Setting>
+    <Setting Name="ConfigKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">config</Value>
+    </Setting>
+    <Setting Name="TranslationKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">translation-tables</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

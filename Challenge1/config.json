@@ -1,0 +1,199 @@
+{
+  "config": {
+    "translation-tables": [
+      {
+        "name": "pt_BR",
+        "translations": [
+          {
+            "inCode": "conjunction",
+            "outCode": "e"
+          },
+          {
+            "inCode": "curr",
+            "outCode": "real"
+          },
+          {
+            "inCode": "currs",
+            "outCode": "reais"
+          },
+          {
+            "inCode": "cent",
+            "outCode": "centavo"
+          },
+          {
+            "inCode": "cents",
+            "outCode": "centavos"
+          },
+          {
+            "inCode": "1",
+            "outCode": "um"
+          },
+          {
+            "inCode": "2",
+            "outCode": "dois"
+          },
+          {
+            "inCode": "3",
+            "outCode": "tres"
+          },
+          {
+            "inCode": "4",
+            "outCode": "quatro"
+          },
+          {
+            "inCode": "5",
+            "outCode": "cinco"
+          },
+          {
+            "inCode": "6",
+            "outCode": "seis"
+          },
+          {
+            "inCode": "7",
+            "outCode": "sete"
+          },
+          {
+            "inCode": "8",
+            "outCode": "oito"
+          },
+          {
+            "inCode": "9",
+            "outCode": "nove"
+          },
+          {
+            "inCode": "10",
+            "outCode": "dez"
+          },
+          {
+            "inCode": "11",
+            "outCode": "onze"
+          },
+          {
+            "inCode": "12",
+            "outCode": "doze"
+          },
+          {
+            "inCode": "13",
+            "outCode": "treze"
+          },
+          {
+            "inCode": "14",
+            "outCode": "quatorze"
+          },
+          {
+            "inCode": "15",
+            "outCode": "quinze"
+          },
+          {
+            "inCode": "16",
+            "outCode": "dezeseis"
+          },
+          {
+            "inCode": "17",
+            "outCode": "dezessete"
+          },
+          {
+            "inCode": "18",
+            "outCode": "dezoito"
+          },
+          {
+            "inCode": "19",
+            "outCode": "dezenove"
+          },
+          {
+            "inCode": "20",
+            "outCode": "vinte"
+          },
+          {
+            "inCode": "30",
+            "outCode": "trinta"
+          },
+          {
+            "inCode": "40",
+            "outCode": "quarenta"
+          },
+          {
+            "inCode": "50",
+            "outCode": "cinquenta"
+          },
+          {
+            "inCode": "60",
+            "outCode": "sessenta"
+          },
+          {
+            "inCode": "70",
+            "outCode": "setenta"
+          },
+          {
+            "inCode": "80",
+            "outCode": "oitenta"
+          },
+          {
+            "inCode": "90",
+            "outCode": "noventa"
+          },
+          {
+            "inCode": "100",
+            "outCode": "cem"
+          },
+          {
+            "inCode": "101",
+            "outCode": "cento"
+          },
+          {
+            "inCode": "200",
+            "outCode": "duzentos"
+          },
+          {
+            "inCode": "300",
+            "outCode": "trezentos"
+          },
+          {
+            "inCode": "400",
+            "outCode": "quatrocents"
+          },
+          {
+            "inCode": "500",
+            "outCode": "quinhentos"
+          },
+          {
+            "inCode": "600",
+            "outCode": "seisentos"
+          },
+          {
+            "inCode": "700",
+            "outCode": "setecentos"
+          },
+          {
+            "inCode": "800",
+            "outCode": "oitocentos"
+          },
+          {
+            "inCode": "900",
+            "outCode": "novecentos"
+          },
+          {
+            "inCode": "1000",
+            "outCode": "mil"
+          },
+          {
+            "inCode": "1000000",
+            "outCode": "milhao"
+          },
+          {
+            "inCode": "1000001",
+            "outCode": "milhoes"
+          },
+          {
+            "inCode": "1000000000",
+            "outCode": "bilhao"
+          },
+          {
+            "inCode": "1000000001",
+            "outCode": "bilhoes"
+          }
+        ]
+      }
+    ]
+  }
+}
