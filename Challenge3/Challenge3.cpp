@@ -6,8 +6,6 @@
 
 int main(int argc, char* argv[])
 {
-    PalindromePermut p;
-
     if (argc < 2)
     {
         std::cout << "Invalid text" << std::endl;
@@ -24,6 +22,7 @@ int main(int argc, char* argv[])
         }
     }
 
+    PalindromePermut p;
     std::cout << p.isPalindromePermutation(s) << std::endl;
     return 0;
 }
