@@ -23,12 +23,13 @@ CoinsCombinatorics::getNumberOfCombinationsR(int value, int size)
 int
 CoinsCombinatorics::getNumberOfCombinations(int value)
 {
-    int i, j, x, y;
-
 	std::unique_ptr<line[]> table;
 	table = std::unique_ptr<line[]>(new line[value + 1]);
 	for (int i = 0; i < value + 1; i++)
 		table[i] = line(coins.size(), 1);
+
+	int i, j;
+	int x, y;
 
 	// Fill rest of the table entries
 	// in bottom up manner
