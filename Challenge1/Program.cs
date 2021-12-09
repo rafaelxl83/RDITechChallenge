@@ -4,6 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/// <summary>
+/// RDI Technical Challenge
+/// Made by Rafael Xavier de Lima (rafael.xavier.lima@gmail.com)
+/// </summary>
 namespace Challenge1
 {
     internal class Program

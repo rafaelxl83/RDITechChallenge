@@ -5,6 +5,10 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
+/// <summary>
+/// RDI Technical Challenge
+/// Made by Rafael Xavier de Lima (rafael.xavier.lima@gmail.com)
+/// </summary>
 namespace Challenge2
 {
     internal class Program

@@ -4,6 +4,10 @@
 
 #include "CoinsCombinatorics.h"
 
+/// <summary>
+/// RDI Technical Challenge
+/// Made by Rafael Xavier de Lima (rafael.xavier.lima@gmail.com)
+/// </summary>
 int main(int argc, char* argv[])
 {
     if (argc < 2)

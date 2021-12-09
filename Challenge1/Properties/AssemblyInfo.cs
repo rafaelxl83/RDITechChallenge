@@ -5,10 +5,10 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Challenge1")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Problem #1")]
+[assembly: AssemblyDescription("Made by Rafael Xavier de Lima (rafael.xavier.lima@gmail.com)")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("RDI Technical Challenge")]
 [assembly: AssemblyProduct("Challenge1")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
