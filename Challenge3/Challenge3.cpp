@@ -3,7 +3,6 @@
 
 #include "PalindromePermut.h"
 
-
 int main(int argc, char* argv[])
 {
     if (argc < 2)
@@ -17,7 +16,7 @@ int main(int argc, char* argv[])
     {
         if (!(96 < c && c < 123))
         {
-            std::cout << "Invalid text! Only lowercase letters" << std::endl;
+            std::cout << "Invalid text! Only lowercase letters are allowed, please, try again!" << std::endl;
             return -1;
         }
     }

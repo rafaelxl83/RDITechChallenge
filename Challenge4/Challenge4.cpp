@@ -8,7 +8,7 @@ int main(int argc, char* argv[])
 {
     if (argc < 2)
     {
-        std::cout << "Invalid text" << std::endl;
+        std::cout << "Invalid number" << std::endl;
         return -1;
     }
 

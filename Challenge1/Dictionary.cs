@@ -70,7 +70,7 @@ namespace Challenge1
             /// Translation constructor with parameters.
             /// </summary>
             /// <param name="inCode">The reference code.</param>
-            /// <param name="outCode">The Aptra Vision code.</param>
+            /// <param name="outCode">The textual reference code.</param>
             public CTranslation(string inCode, string outCode)
             {
                 this.InCode = inCode;

@@ -15,12 +15,15 @@ PalindromePermut::isPalindromePermutation(std::string text)
 	// palindrome possible.
 	// for odd sized texts only one of the 
 	// letters must have an odd amount.
+	// O(2n) -> O(n) complexity: linear
 	bool isEven = text.size() % 2 == 0;
 	bool singleOdd = false;
 
+	// O(n) complexity
 	for (char c : text)
 		letters.at(c)++;
 
+	// O(n) complexity
 	for (std::pair<char, int> p : letters)
 	{
 		if (isEven)

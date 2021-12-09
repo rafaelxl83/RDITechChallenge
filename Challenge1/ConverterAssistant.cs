@@ -20,7 +20,6 @@ namespace Challenge1
             return true;
         }
 
-
         public string convertAmount2Words(string m, string n)
         {
             int qTen = m.Length, ten = 0, len;
@@ -35,7 +34,7 @@ namespace Challenge1
             {
                 // decomposing this number between a single
                 // and a double values, to properly evaluate
-                // if it is a hundred or a decimal value
+                // if it is a hundred or a decimal entry
                 if (m.Length > 1)
                 {
                     do
